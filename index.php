@@ -26,7 +26,7 @@
 </head>
 <body>
   <div align="center">
-    <h1>AWS OpsWorks demo version 2</h1>
+    <h1>AWS OpsWorks demo version 1</h1>
   </div>
 </body>
 </html>
